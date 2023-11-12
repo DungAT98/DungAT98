@@ -54,4 +54,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dungat98&show_icons=true&locale=en&layout=compact" alt="dungat98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dungat98&show_icons=true&locale=en" alt="dungat98" /></p>
+
+
 ###

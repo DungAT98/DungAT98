@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Tien Dung from Vietnam<br><br>- 🔭 I’m working as Software Development<br>- 📚 I'm currently learning Mean stack<br>- ⚡ In my free time I play game</p>
+<p align="left">I'm Tien Dung from Vietnam<br><br>- 🔭 I’m working as Software Development<br>- ⚡ In my free time I play game</p>
 
 ###
 
